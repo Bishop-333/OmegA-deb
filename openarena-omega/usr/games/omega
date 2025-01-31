@@ -3,7 +3,7 @@
 # /usr/lib/openarena
 FS_BASEPATH=/usr/lib/openarena
 
-ENGINE="/usr/lib/openarena/omega-x64"
+ENGINE="/usr/lib/omega-engine/omega-x64"
 
 # we're a standalone game
 CVARS="$CVARS +set fs_basepath $FS_BASEPATH"
