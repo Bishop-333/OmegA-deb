@@ -3,9 +3,11 @@ Upstream-Name: omega
 Upstream-Contact: bishop.333@outlook.com
 
 Files: *
+Copyright: 2025, Bishop-333
 License: GPL-2.0+
 
 Files: debian/*
+Copyright: 2025, Bishop-333
 License: GPL-2.0+
 
 License: GPL-2.0+

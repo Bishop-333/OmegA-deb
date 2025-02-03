@@ -4,4 +4,6 @@ Architecture: amd64
 Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
 Section: games
 Priority: optional
-Description: OpenArena OmegA game data.
+Description: OpenArena OmegA game data - maps and mod
+ Omega is an open-source mod for OpenArena,
+ designed to fix bugs and add features for competitive gameplay
