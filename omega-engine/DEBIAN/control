@@ -7,7 +7,8 @@ Section: games
 Priority: optional
 Description: Unofficial fork of the Quake3e engine for OpenArena OmegA.
  This package installs a modified version of the Quake3e game engine,
- which is made especially for OmegA but can be used to play OpenArena and Quake3.
+ which is made especially for OmegA but can be used to play OpenArena
+ and Quake3.
  .
  This package alone isn't of any use; to get a playable game, install
  openarena-omega or another suitable set of game data.
