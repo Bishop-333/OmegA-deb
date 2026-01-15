@@ -1,13 +1,13 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: omega
+Upstream-Name: OmegA-mod
 Upstream-Contact: bishop-333@outlook.com
 
 Files: *
-Copyright: 2025, Bishop-333
+Copyright: 2026, Bishop-333
 License: GPL-2.0+
 
 Files: debian/*
-Copyright: 2025, Bishop-333
+Copyright: 2026, Bishop-333
 License: GPL-2.0+
 
 License: GPL-2.0+

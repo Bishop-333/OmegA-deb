@@ -1,8 +1,8 @@
 Package: openarena-omega
-Version: 3.3.4-1
+Version: 3.3.7-1
 Architecture: amd64
 Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
-Depends: openarena-omega-engine (>= 3.3.4-1), openarena-081-maps, openarena-081-misc, openarena-081-players, openarena-081-players-mature, openarena-081-textures, openarena-085-data, openarena-088-data, openarena-data (<< 0.8.6~), openarena-data (>= 0.8.5-3~), openarena-oacmp1, openarena-omega-data (>= 3.3.4-1), libc6 (>= 2.14)
+Depends: omega-engine (>= 3.3.7-1), openarena-081-maps, openarena-081-misc, openarena-081-players, openarena-081-players-mature, openarena-081-textures, openarena-085-data, openarena-088-data, openarena-data (<< 0.8.6~), openarena-data (>= 0.8.5-3~), openarena-oacmp1, openarena-omega-data (>= 3.3.7-1), libc6 (>= 2.14)
 Section: games
 Priority: optional
 Description: fast-paced 3D first-person shooter
